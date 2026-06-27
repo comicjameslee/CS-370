@@ -1,1 +1,4 @@
 # CS-370
+Throughout this project I was often given many key pieces of code. That being said I still modified and created many aspects of code especially in the Treasure hunter code as well as research and write my experiences and thoughts in order to communicate a specific point.
+
+  That being said, a computer scientist is responsible for building applications and systems that interact with each other. They build and create frameworks for almost everything society interacts with. This is where computer science ethics come in. Computer scientists are responsible for many great, incredibly important advancements in society, but they're also responsible for many preventable tragedies. Computer scientists are responsible for upholding and preventing these events, by building applications responsibly and safely. As well as approach problems ethically and responsibly towards the organizations.  
